@@ -12,7 +12,7 @@
   * IO多路复用--select,poll,epoll区别
   * Java里面的IO--BIO,NIO,AIO
 * Netty
-  * 与Socket区别--阻塞非阻塞
+  * 与Socket区别--阻塞非阻塞，事件驱动架构(并发)
   * Netty线程模型--三种Reactor模型
   * 零拷贝
   * 时间轮
