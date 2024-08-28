@@ -3,6 +3,7 @@
 **待补充ing...**
 
 * 其他rpc框架比较，如dubbo,gprc等
+* 与http thrift的区别
 * 简单实现
   * JDK动态代理(CGLIB动态代理)--动态代理
   * 反射
